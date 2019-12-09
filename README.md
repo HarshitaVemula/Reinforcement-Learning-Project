@@ -7,12 +7,12 @@ Algorithms:
 Cont spaces:
   Implementation of PPO in cont state and action spaces
   
-  -file to be run : ppo_citylearn.ipynb
+    -file to be run : ppo_citylearn.ipynb
 
 Discrete spaces:
   Implementation of SARSA and Q-Learning in discrete state and action spaces
  
- -file to be run : SARSA_QL.ipynb
+    -file to be run : SARSA_QL.ipynb
   
 Modified reward functions:
   Different modifications of the reward fucntion were  before arriving at the final formulation.
@@ -25,7 +25,7 @@ Modified reward functions:
 Other policy gradient algo
    Implementation of reinforce with baseline and one step actor critic (with and without eligibility traces).
 
-   -file to be run : policy_grad.ipynb
+    -file to be run : policy_grad.ipynb
    
    
 
